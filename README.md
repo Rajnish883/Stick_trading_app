@@ -1,0 +1,1 @@
+# Stick_trading_app
